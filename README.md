@@ -42,7 +42,7 @@ https://youtu.be/5JvHVEPkjZk
 <br />
 <br />
 
-## Please hit Star if you like it or if it helps you.
+## Please hit Star if you like it or if it helps you &#x1F49A;
 
 ## License:
 
